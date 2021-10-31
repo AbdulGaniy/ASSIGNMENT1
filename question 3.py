@@ -11,5 +11,5 @@ elif(val- number < 10 and val - number > 0) or (number - val < 10 and val - numb
     print("you are near")
 else:
     print(number)
-    print("you are correct")
+    print("you got it right")
 
